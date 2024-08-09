@@ -2,12 +2,12 @@
 Data Science
 
 ### Education
-BSc IT
-Diploma in Computer Science
+- BSc IT
+- Diploma in Computer Science
 
 ### Licenses
-Amazon Web Service Practitioner
-Introduction to Data Science
+- Amazon Web Service Practitioner
+- Introduction to Data Science
 
 ### Experience
 
