@@ -2,13 +2,16 @@
 Data Science
 
 ### Education
-- BSc IT
+- BSc in Information Technology
 - Diploma in Computer Science
+- Applied Data Sience (candidate)
 
 ### Licenses
 - Amazon Web Service Practitioner
 - Introduction to Data Science
 
-### Experience
-
 ### Projects
+- Database desgn
+- Machine learning:
+-   K-Means clustering
+-   Housing price predictions
